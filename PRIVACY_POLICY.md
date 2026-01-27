@@ -2,7 +2,7 @@
 
 **Effective Date:** December 19, 2025
 
-At **SleepIQ**, we believe that what happens in your bedroom should stay in your bedroom. Unlike other sleep trackers that upload your audio to cloud servers, SleepIQ is designed to be **Privacy-First**.
+At **Nyxa**, we believe that what happens in your bedroom should stay in your bedroom. Unlike other sleep trackers that upload your audio to cloud servers, Nyxa is designed to be **Privacy-First**.
 
 ## 1. Data Collection & Storage
 **We do not collect or store your personal sleep data on our servers.**
@@ -28,4 +28,4 @@ To provide the "Weather Correlation" feature, the app fetches local weather data
 
 ## 5. Contact
 For privacy concerns, please contact our Data Protection Officer at:
-**privacy@sleepiq.app**
+**privacy@nyxa.app**
