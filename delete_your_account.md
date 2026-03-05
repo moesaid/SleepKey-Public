@@ -7,7 +7,7 @@ We are sorry to see you go. If you wish to permanently delete your account and a
 ## Instructions
 
 1.  **Open the App**
-    Launch the Nyxa app on your device.
+    Launch the Sleep Key app on your device.
 
 2.  **Go to Profile**
     Tap on the **Profile** icon located in the bottom navigation bar (or the top-right corner, depending on your layout).
@@ -30,4 +30,4 @@ We are sorry to see you go. If you wish to permanently delete your account and a
 * You will receive a confirmation email stating that your account has been removed.
 
 ## Need Help?
-If you are unable to delete your account or encounter an error, please contact our support team at [support@nyxa.app](mailto:support@nyxa.app) for manual assistance.
+If you are unable to delete your account or encounter an error, please contact our support team at [support@sleepkey.app](mailto:support@sleepkey.app) for manual assistance.
