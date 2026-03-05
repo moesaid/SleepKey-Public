@@ -1,11 +1,11 @@
-# Nyxa
+# Sleep Key
 
 **Master your rest. Wake up refreshed.**
 
-## Welcome to Nyxa
-Nyxa is a next-generation sleep monitor that turns your device into a comprehensive sleep laboratory. Unlike traditional alarms that jolt you awake, Nyxa uses advanced audio processing and accelerometer data to wake you during your lightest sleep phase—ensuring you start your day feeling energized, not groggy.
+## Welcome to Sleep Key
+Sleep Key is a next-generation sleep monitor that turns your device into a comprehensive sleep laboratory. Unlike traditional alarms that jolt you awake, Sleep Key uses advanced audio processing and accelerometer data to wake you during your lightest sleep phase—ensuring you start your day feeling energized, not groggy.
 
-Designed for privacy-conscious users, Nyxa processes all data locally on your device. We combine clinical-grade sleep analysis with local weather correlation to help you understand exactly what impacts your rest.
+Designed for privacy-conscious users, Sleep Key processes all data locally on your device. We combine clinical-grade sleep analysis with local weather correlation to help you understand exactly what impacts your rest.
 
 ## Core Features
 
@@ -30,4 +30,4 @@ Designed for privacy-conscious users, Nyxa processes all data locally on your de
 * **Sleep Notes:** Tag your day (Caffeine, Alcohol, Workout) to see their long-term effect on your rest.
 
 ---
-*Nyxa: Inspired by leading sleep technology, built for your privacy.*
+*Sleep Key: Inspired by leading sleep technology, built for your privacy.*
